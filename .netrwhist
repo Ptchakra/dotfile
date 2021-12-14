@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/congpt12/omg/tinylink/crontab'
+let g:netrw_dirhist_8='/home/congpt12/omg/tinylink'
+let g:netrw_dirhist_7='/home/congpt12/omg/tinylink/crontab'
+let g:netrw_dirhist_6='/home/congpt12'
+let g:netrw_dirhist_5='/home/congpt12/omg/tinylink/crontab'
+let g:netrw_dirhist_4='/home/congpt12/omg/tinylink'
+let g:netrw_dirhist_3='/home/congpt12/omg'
+let g:netrw_dirhist_2='/home/congpt12'
+let g:netrw_dirhist_1='/home/congpt12/Templates'
+let g:netrw_dirhist_0='/home/congpt12'

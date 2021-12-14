@@ -1,0 +1,13 @@
+{
+  "python.formatting.provider": "black",
+  "explorer.icon.enableNerdfont": true,
+  "explorer.mouseMode": "singleclick",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "py",
+    "python",
+    "js",
+    "javascript",
+    "json",
+    "html"
+  ]
+}
